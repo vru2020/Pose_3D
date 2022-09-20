@@ -32,7 +32,7 @@ pip install -r requirements.txt
 Due to licensing it is not possible to provide any data from Human3.6M. However, for training only 2D keypoints from a pretrained 2D detector are needed. 
 Our detections are from [VPose3D](https://github.com/facebookresearch/VideoPose3D). You can download the 2D detections and the triangulated keypoints from from [Google Drive](https://drive.google.com/drive/folders/1UgYTc0YZnM0nhv9DreeIeD0PRbgmlwCC?usp=sharing).
 
-Please refer to [`DATASETS.md`](./DATASETS.md) for the preparation of the dataset files. 
+Please refer to [VideoPose3D](https://github.com/facebookresearch/VideoPose3D/blob/main/DATASETS.md) for the preparation of the dataset files. 
 
 ## Training
 
