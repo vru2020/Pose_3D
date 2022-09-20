@@ -34,6 +34,14 @@ Our detections are from [VPose3D](https://github.com/facebookresearch/VideoPose3
 
 Please refer to [`DATASETS.md`](./DATASETS.md) for the preparation of the dataset files. 
 
+## Training
+
+To train the model, you can use the following command:
+
+ ```
+ python main_h36m.py 
+ ```
+ 
 ## Models
 
 We release the pretrained models for academic purpose. You can download them from [Google Drive](https://drive.google.com/drive/folders/1P1tN9lVuOyfdh0Xhx-w1TYGElJoz_zvC?usp=sharing). 
